@@ -1,2 +1,2 @@
 # other URLS might proxy or redirect offsite
-/ https://toto.smappio.xyz/ 301
+/* https://toto.smappio.fr/:splat 200
